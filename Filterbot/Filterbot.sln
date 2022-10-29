@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filterbot.Web", "Filterbot.Web\Filterbot.Web.csproj", "{994454F4-814E-447D-91FD-045AE734EEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filterbot.BLL", "Filterbot.BLL\Filterbot.BLL.csproj", "{C59B4E63-C584-4527-A64E-E11E552EA20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994454F4-814E-447D-91FD-045AE734EEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994454F4-814E-447D-91FD-045AE734EEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994454F4-814E-447D-91FD-045AE734EEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994454F4-814E-447D-91FD-045AE734EEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59B4E63-C584-4527-A64E-E11E552EA20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59B4E63-C584-4527-A64E-E11E552EA20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59B4E63-C584-4527-A64E-E11E552EA20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59B4E63-C584-4527-A64E-E11E552EA20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
